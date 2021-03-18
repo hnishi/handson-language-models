@@ -1,5 +1,7 @@
 # handson-language-models
 
+**こちらのレポジトリの記事は [別のサイト](https://jupyterbook.hnishi.com/language-models/fine_tune_jp_bert_part01.html) に移行しました。本レポジトリはアーカイブいたします。**
+
 日本語の言語モデルのハンズオン資料です
 
 ## 目次
